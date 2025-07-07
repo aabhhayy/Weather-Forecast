@@ -1,4 +1,5 @@
 ☁️ Live Weather Forecast Dashboard – Power BI
+
 🧩 Project Overview
 This interactive dashboard provides real-time weather updates for multiple Indian cities.
 It pulls data from a live weather API and translates complex climate stats into easy-to-understand
@@ -55,7 +56,7 @@ Use of slicers (like Chance of Rain), bar charts, KPI cards for an intuitive exp
 4. Creating a user-first UI, where even a non-technical user can instantly understand data like UV Index or rainfall
 
 👀 Preview
-Check Out this Dashboard Link:- 
+Check Out this Dashboard Link:- https://github.com/aabhhayy/Weather-Forecast/blob/main/Dashboard-image.png
 
 🧭 How to Use:-
 
